@@ -52,8 +52,4 @@ them into one tidy monthly table.
 - **Loan volumes move inversely to rates.** New mortgage volumes dropped as rates
   peaked in 2022–2023 and recovered as rates started falling.
 
-## Note
 
-The spread here is the gap between new-mortgage rates and the policy rate, used
-as an indicator of how far mortgage pricing lags monetary policy — not a direct
-measure of any single bank's profit.
